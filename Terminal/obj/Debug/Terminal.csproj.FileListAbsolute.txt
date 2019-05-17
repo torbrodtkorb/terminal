@@ -1,0 +1,10 @@
+C:\Users\torbro\Documents\Prosjekter\Terminal\Terminal\bin\Debug\Terminal.exe.config
+C:\Users\torbro\Documents\Prosjekter\Terminal\Terminal\bin\Debug\Terminal.exe
+C:\Users\torbro\Documents\Prosjekter\Terminal\Terminal\bin\Debug\Terminal.pdb
+C:\Users\torbro\Documents\Prosjekter\Terminal\Terminal\obj\Debug\Terminal.csprojAssemblyReference.cache
+C:\Users\torbro\Documents\Prosjekter\Terminal\Terminal\obj\Debug\Terminal.Properties.Resources.resources
+C:\Users\torbro\Documents\Prosjekter\Terminal\Terminal\obj\Debug\Terminal.csproj.GenerateResource.cache
+C:\Users\torbro\Documents\Prosjekter\Terminal\Terminal\obj\Debug\Terminal.csproj.CoreCompileInputs.cache
+C:\Users\torbro\Documents\Prosjekter\Terminal\Terminal\obj\Debug\Terminal.exe
+C:\Users\torbro\Documents\Prosjekter\Terminal\Terminal\obj\Debug\Terminal.pdb
+C:\Users\torbro\Documents\Prosjekter\Terminal\Terminal\obj\Debug\Terminal.Terminal.resources
